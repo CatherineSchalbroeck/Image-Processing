@@ -4,11 +4,11 @@ Image processing using MNIST and Random Forest ML.<br> This coding task exercise
 ![image3](https://www.codeintrinsic.com/wp-content/uploads/2021/12/mnist-digit.png)
 
 ## Table fo Contents
-[Description](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md##description)<br>
-[How to install](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md##how-to-install)<br>
-[How to use](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md##how-to-use) <br>
-[Credits](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md##credits) <br>
-[License](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md##license)  
+[Description](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md#description)<br>
+[How to install](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md#how-to-install)<br>
+[How to use](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md#how-to-use) <br>
+[Credits](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md#credits) <br>
+[License](https://github.com/CatherineSchalbroeck/Image-Processing/edit/main/README.md#license)  
 
 ## Description
 This Image Processing model is built using a Random Forest Classifier model to analyse digit images taken from the MNIST dataset. The model predicts the correct digit in all images.
