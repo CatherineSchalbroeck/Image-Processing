@@ -14,7 +14,7 @@ Image processing using MNIST and Random Forest ML.<br> This coding task exercise
 This Image Processing model is built using a Random Forest Classifier model to analyse digit images taken from the MNIST dataset. The model predicts the correct digit in all images.
 
 ## How to install
-Python 3 is required to run this model.
+Jupyter Notebook and Python 3 are required to run this model.
 The following Python libraries will also need to be installed:
 - Numpy
 - Matplotlib
